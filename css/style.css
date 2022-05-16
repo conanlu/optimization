@@ -213,7 +213,7 @@ p {
 .top_cont_outer {
     background: #3498db;
     position: relative;
-	background:url(../img/slide-1.jpg) top center no-repeat;
+	background:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/optimization2.png) top center no-repeat;
 	height:650px;
 }
 
@@ -657,7 +657,7 @@ img {
 /* About Us
 --------------------------- */
 .aboutUs-container {
-background-image: url(../img/lap.png);
+/*background-image: url(../img/lap.png);*/
 }
 .aboutUs-container {
 background-repeat: no-repeat;
